@@ -12,16 +12,18 @@ Samodzielne złożenie komputera PC od podstaw z doborem kompatybilnych podzespo
 # Zdjęcia projektu
 
 ## Finalny montaż komputera
-![Finalny montaż PC](./images/final_build.jpg)
+<img width="4032" height="2268" alt="20251117_134752" src="https://github.com/user-attachments/assets/fa7a1483-5bfc-451e-a080-9bbd7c8c5963" />
 
 ## Cable management / prowadzenie przewodów
-<!-- TODO: dodać zdjęcie -->
+<img width="2268" height="4032" alt="20251109_153154" src="https://github.com/user-attachments/assets/007c20c6-0093-4fc0-99b6-4ad5382b5483" />
 
 ## Wnętrze obudowy i chłodzenie
-<!-- TODO: dodać zdjęcie -->
+<img width="2268" height="4032" alt="20251117_134744" src="https://github.com/user-attachments/assets/20a4b26a-f04e-4e02-9c00-1a2342981e75" />
 
-## Filtry przeciwpyłowe i organizacja przepływu powietrza
-<!-- TODO: dodać zdjęcie -->
+## Czyszczenie płyty głównej za pomocą IPA
+<img width="4032" height="2268" alt="20251108_093313" src="https://github.com/user-attachments/assets/06a99c6f-e4e6-415f-8734-c89a2191ef43" /><img width="4032" height="2268" alt="20251108_094601" src="https://github.com/user-attachments/assets/8e492a31-092a-4950-872d-479aa01873ca" />
+<img width="4032" height="2268" alt="20251108_093842" src="https://github.com/user-attachments/assets/02247e3a-c661-47cc-88d8-bbfff7aaef2c" />
+
 
 ---
 
@@ -348,17 +350,17 @@ Modernizacja platformy PC poprzez wymianę CPU (i5-7600K → i7-6700K), konfigur
 
 # Zdjęcia projektu
 
-## Platforma testowa / wnętrze PC
-<!-- TODO: dodać zdjęcie -->
+## BŁĄD PO OC
+<img width="1536" height="1152" alt="image-1769011432008" src="https://github.com/user-attachments/assets/1c6c7ba8-c9dd-431a-8c84-4d28d9119399" />
 
 ## BIOS / ustawienia OC
-<!-- TODO: dodać zdjęcie -->
+<img width="1536" height="1152" alt="image-1768171753599" src="https://github.com/user-attachments/assets/e5d7cd32-86f5-4e37-bfb5-e6c2f78943bb" />
 
 ## Testy OCCT / monitoring temperatur
-<!-- TODO: dodać zdjęcie -->
+<img width="1536" height="1152" alt="image-1768163473888" src="https://github.com/user-attachments/assets/ab4bdca4-d8c3-4d5c-b5a4-571fe282b891" />
 
 ## Finalna konfiguracja systemu
-<!-- TODO: dodać zdjęcie -->
+<img width="1152" height="1536" alt="image-1768171461178" src="https://github.com/user-attachments/assets/a8cf6ecc-f4c0-41fd-ada8-9709fc0820aa" />
 
 ---
 
