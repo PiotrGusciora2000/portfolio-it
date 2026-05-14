@@ -205,20 +205,16 @@ Kompleksowy serwis laptopa Dell Inspiron N Series obejmujący pełny demontaż, 
 
 # Zdjęcia projektu
 
-## Laptop przed serwisem
-<!-- TODO: dodać zdjęcie -->
 
 ## Demontaż laptopa / płyta główna
-<!-- TODO: dodać zdjęcie -->
+<img width="720" height="1280" alt="364813656_2182094281997608_217277404765964562_n" src="https://github.com/user-attachments/assets/8256b141-836e-406c-b687-f1a19efbcc75" />
 
-## Czyszczenie układu chłodzenia
-<!-- TODO: dodać zdjęcie -->
+## Wymiana pasty termoprzewodzącej na procesorze i dedykowanej karcie graficznej
+<img width="941" height="1672" alt="93ff8e7a-392c-4d50-bc9b-28b4bd282815" src="https://github.com/user-attachments/assets/b91ddb7d-9343-4935-adad-89239ffcb443" /><img width="720" height="1280" alt="364813438_2182094285330941_6853753647554141301_n" src="https://github.com/user-attachments/assets/40b0d46f-debf-4eb5-baf9-ec64f5e4a55c" />
 
-## Wymiana pasty termoprzewodzącej
-<!-- TODO: dodać zdjęcie -->
 
 ## Finalny montaż
-<!-- TODO: dodać zdjęcie -->
+<img width="720" height="1280" alt="Messenger_creation_779118145628569" src="https://github.com/user-attachments/assets/fbdf7a13-9386-4106-87a5-4725de0b47f1" />
 
 ---
 
@@ -516,16 +512,9 @@ Diagnostyka i usuwanie malware w systemach Windows 7/10 z wykorzystaniem trybu a
 # Zdjęcia projektu
 
 ## Infekcja / blokada systemu
-<!-- TODO: dodać zdjęcie -->
+<img width="1448" height="1086" alt="762aa881-a6dc-4db2-926f-6a65b45815c8" src="https://github.com/user-attachments/assets/3cc316b6-323a-4307-9ea5-a59b9397bafc" />
+<img width="1448" height="1086" alt="dd83b293-5f2b-473a-8f0e-7d3cafba1367" src="https://github.com/user-attachments/assets/10c445e7-72d2-4dee-8245-94b10120c3fb" />
 
-## Tryb awaryjny Windows
-<!-- TODO: dodać zdjęcie -->
-
-## Narzędzia antymalware / sandbox
-<!-- TODO: dodać zdjęcie -->
-
-## Analiza VirusTotal / ANY.RUN
-<!-- TODO: dodać zdjęcie -->
 
 ---
 
@@ -673,21 +662,6 @@ Dodatkowo przeprowadzono analizę zagrożeń związanych z:
 
 Samodzielne usprawnienie procesów magazynowych i dokumentacyjnych w środowisku produkcyjnym poprzez wdrożenie systemu kodów kreskowych, integrację skanerów oraz organizację obiegu danych i dokumentów. Rozwiązywanie problemów technicznych w Windows 10 i sieciach Wi-Fi, koordynacja serwisów technicznych oraz prowadzenie reklamacji dostawców. Projekt obejmował analizę procesów, automatyzację organizacji danych oraz optymalizację przepływu informacji między działami.
 
----
-
-# Zdjęcia projektu
-
-## System kodów kreskowych / magazyn
-<!-- TODO: dodać zdjęcie -->
-
-## Organizacja dokumentacji i segregatorów
-<!-- TODO: dodać zdjęcie -->
-
-## Skaner kodów kreskowych / stanowisko pracy
-<!-- TODO: dodać zdjęcie -->
-
-## System ewidencji części
-<!-- TODO: dodać zdjęcie -->
 
 ---
 
