@@ -11,6 +11,9 @@ Samodzielne złożenie komputera PC od podstaw z doborem kompatybilnych podzespo
 
 # Zdjęcia projektu
 
+## Praca przy składaniu i konfiguracji komputera
+<img width="1152" height="1536" alt="przy kompa naprawie ja" src="https://github.com/user-attachments/assets/b4c14178-a0d3-4028-8d49-15b5369d719d" />
+
 ## Finalny montaż komputera
 <img width="4032" height="2268" alt="20251117_134752" src="https://github.com/user-attachments/assets/fa7a1483-5bfc-451e-a080-9bbd7c8c5963" />
 
